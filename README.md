@@ -1,4 +1,4 @@
-# OCR_Tesseract_on_fixed_fields-_in_an_image
+# OCR_Tesseract_on_fixed_fields_in_an_image
 
 Manual process in terms of selecting the region of interest. However if you only need a few staic fields of information from the image this can be used.
 
