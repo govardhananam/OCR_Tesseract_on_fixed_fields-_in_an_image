@@ -1,0 +1,1 @@
+# OCR_Tesseract_on_fixed_fields-_in_an_image
